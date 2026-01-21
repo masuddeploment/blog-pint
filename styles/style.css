@@ -1,9 +1,23 @@
 nav li a{
    text-decoration: none;
-   
-   
+  
 }
-nav{
+nav li{
   list-style: none;
-  border: 10px solid red;
+  display: inline;
+ margin-right: 20px;
+}
+nav li:hover{
+     background-color: aqua;
+}
+footer{
+  text-align: center;
+}
+h5{
+  font-size: 20px;
+  color: green;
+}
+p{
+  background-color: aquamarine;
+  border: 10px solid gold;
 }
