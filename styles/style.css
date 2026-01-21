@@ -1,0 +1,9 @@
+nav li a{
+   text-decoration: none;
+   
+   
+}
+nav{
+  list-style: none;
+  border: 10px solid red;
+}
